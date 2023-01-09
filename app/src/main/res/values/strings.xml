@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dedicasion1</string>
+    <string name="surname">Сообщение</string>
+    <string name="gmail_com">Gmail.com</string>
+    <string name="name">Тема</string>
+    <string name="send">Отправить</string>
+</resources>
